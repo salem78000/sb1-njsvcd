@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <!-- Logo noir -->
+  <path d="M200 200 L500 200 L800 500 L500 800 L200 500 Z" fill="#333333"/>
+  <!-- Accent rouge -->
+  <path d="M600 400 L800 600 L900 500 L700 300 Z" fill="#b32a29"/>
+  <!-- Texte LS COM -->
+  <text x="200" y="950" font-family="Arial" font-size="120" font-weight="bold" fill="#333333">
+    LS COM
+  </text>
+</svg>
